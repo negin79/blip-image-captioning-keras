@@ -1,0 +1,14 @@
+
+# Deep Learning Frameworks
+tensorflow-cpu==2.17.1
+torch==2.2.0
+
+# Pretrained Vision-Language Model
+transformers==4.38.2
+
+# Image Processing and Visualization
+Pillow==11.1.0
+matplotlib==3.9.2
+
+# Numerical Computing
+numpy==1.26.4
